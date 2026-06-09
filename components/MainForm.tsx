@@ -101,7 +101,7 @@ export function MainForm() {
           <Text inherit variant="gradient" component="span">
             tree
           </Text>
-          <Text className={classes.description}>Visualize Etmological Relaitons</Text>
+          <Text className={classes.description}>Visualize Etmological Relations</Text>
         </Title>
       </Container>
 
